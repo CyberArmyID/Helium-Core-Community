@@ -75,8 +75,6 @@ Helium Core Community is the free version of our professional application securi
 ## 📥 Download
 
 ### Latest Release
-- **Version**: v1.0.0
-
 | Platform | Download |
 |----------|----------|
 | Windows (x64) | [Download](https://github.com/CyberArmyID/Helium-Core-Community/releases/latest) | |
