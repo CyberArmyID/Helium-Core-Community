@@ -82,7 +82,7 @@ Helium Core Community is the free version of our professional application securi
 | Linux (arm64) | [Download](https://github.com/CyberArmyID/Helium-Core-Community/releases/latest) |
 
 ### System Requirements
-- **Operating System**: Windows 10/11 (x64) or Linux (x64)
+- **Operating System**: Windows 10/11 (x64) / Linux (x64) / Linux (arm64)
 - **Processor**: Multi-core CPU recommended (2+ cores minimum)
 - **Memory**:
   - **Minimum**: 4GB RAM (basic functionality - single scan operations, limited fuzzing)
