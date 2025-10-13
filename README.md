@@ -79,6 +79,7 @@ Helium Core Community is the free version of our professional application securi
 |----------|----------|
 | Windows (x64) | [Download](https://github.com/CyberArmyID/Helium-Core-Community/releases/latest) | |
 | Linux (x64) | [Download](https://github.com/CyberArmyID/Helium-Core-Community/releases/latest) |
+| Linux (arm64) | [Download](https://github.com/CyberArmyID/Helium-Core-Community/releases/latest) |
 
 ### System Requirements
 - **Operating System**: Windows 10/11 (x64) or Linux (x64)
