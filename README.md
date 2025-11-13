@@ -28,6 +28,10 @@ Helium Core Community is the free version of our professional application securi
 - **Subdomain Discovery** - Automatically discovers subdomains for browsed domains
 - **Port & Service Detection** - Identifies open ports and running services on discovered hosts
 - **WebTech Detection** - Technology stack identification and fingerprinting
+- **Attack Surface Analytics** - Comprehensive metrics and insights:
+  - **Port Analytics** - Statistical analysis of discovered ports
+  - **Subdomain Analytics** - Subdomain discovery metrics
+  - **Technology Analytics** - Web technology distribution analysis
 
 ### 🛡️ Website Scanner
 - **Passive Vulnerability Scanner** - Non-intrusive security analysis with 40+ scan rules:
@@ -63,14 +67,6 @@ Helium Core Community is the free version of our professional application securi
 - **Filter Templates** - Advanced query capabilities with HTTPQL syntax
 - **Export Capabilities** - Workspace data export functionality
 - **Template System** - Reusable filter and query templates
-
-### 📈 Analytics & Reporting
-- **Attack Surface Analytics** - Comprehensive metrics and insights:
-  - **Port Analytics** - Statistical analysis of discovered ports
-  - **Subdomain Analytics** - Subdomain discovery metrics
-  - **Technology Analytics** - Web technology distribution analysis
-- **Real-time WebSocket Communication** - Live updates and notifications
-- **Version Management** - Track application version and updates
 
 ## 📥 Download
 
